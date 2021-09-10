@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800x600</folder>
+	<filename>105.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\atarashi train 25aug21\800x600\105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>becak barang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>224</ymin>
+			<xmax>555</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
