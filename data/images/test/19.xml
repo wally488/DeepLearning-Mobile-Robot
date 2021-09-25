@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Percobaan 20921</folder>
+	<filename>19.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\Percobaan 20921\19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>becak barang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>26</ymin>
+			<xmax>236</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>becak barang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>6</ymin>
+			<xmax>145</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>
