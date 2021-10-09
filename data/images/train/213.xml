@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800x600</folder>
+	<filename>213.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\10okt21 vehicles\800x600\213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>2</ymin>
+			<xmax>626</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
