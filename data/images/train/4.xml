@@ -1,7 +1,7 @@
 <annotation>
 	<folder>800x600</folder>
-	<filename>6.jpg</filename>
-	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\6.jpg</path>
+	<filename>4.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
-			<ymin>250</ymin>
-			<xmax>219</xmax>
-			<ymax>300</ymax>
+			<xmin>160</xmin>
+			<ymin>245</ymin>
+			<xmax>189</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>198</xmin>
-			<ymin>218</ymin>
-			<xmax>313</xmax>
-			<ymax>286</ymax>
+			<xmin>220</xmin>
+			<ymin>225</ymin>
+			<xmax>322</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>236</ymin>
+			<xmax>46</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 </annotation>

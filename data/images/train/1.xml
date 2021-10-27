@@ -1,7 +1,7 @@
 <annotation>
 	<folder>800x600</folder>
-	<filename>9.jpg</filename>
-	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\9.jpg</path>
+	<filename>1.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>162</xmin>
-			<ymin>248</ymin>
-			<xmax>279</xmax>
-			<ymax>298</ymax>
+			<xmin>121</xmin>
+			<ymin>244</ymin>
+			<xmax>306</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
