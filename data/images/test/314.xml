@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800x600</folder>
+	<filename>314.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\201021-person\800x600\314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>167</ymin>
+			<xmax>443</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
