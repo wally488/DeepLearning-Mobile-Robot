@@ -1,0 +1,38 @@
+<annotation>
+	<folder>800x600</folder>
+	<filename>296.jpg</filename>
+	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\296.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>212</ymin>
+			<xmax>201</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>223</ymin>
+			<xmax>359</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>
