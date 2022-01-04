@@ -1,4 +1,4 @@
-!apt install chromium-chromedriver -q
+!apt-get install -y chromium-chromedriver
 !pip install google_images_download selenium -q
 
 import sys
