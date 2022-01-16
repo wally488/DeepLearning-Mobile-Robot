@@ -1,7 +1,7 @@
 <annotation>
-	<folder>800x600</folder>
+	<folder>FIFTYONE REVISION DATASET</folder>
 	<filename>168.jpg</filename>
-	<path>D:\Robot Pengirim Barang S3\10okt21 vehicles\800x600\168.jpg</path>
+	<path>D:\FIFTYONE REVISION DATASET\168.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>230</ymin>
 			<xmax>347</xmax>
 			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>203</ymin>
+			<xmax>339</xmax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 </annotation>
