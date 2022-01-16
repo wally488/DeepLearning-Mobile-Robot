@@ -1,26 +1,38 @@
 <annotation>
-	<folder>Robot Pengirim Barang S3</folder>
+	<folder>800x600</folder>
 	<filename>10.jpg</filename>
-	<path>G:\Robot Pengirim Barang S3\10.jpg</path>
+	<path>D:\Robot Pengirim Barang S3\17okt21 arief\800x600\10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2560</width>
-		<height>1536</height>
+		<width>450</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>becak barang</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>342</xmin>
-			<ymin>347</ymin>
-			<xmax>2138</xmax>
-			<ymax>1369</ymax>
+			<xmin>263</xmin>
+			<ymin>224</ymin>
+			<xmax>282</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>233</ymin>
+			<xmax>320</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 </annotation>
