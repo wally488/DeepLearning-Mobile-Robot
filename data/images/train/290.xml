@@ -1,50 +1,26 @@
 <annotation>
 	<folder>FIFTYONE REVISION DATASET</folder>
-	<filename>265.jpg</filename>
-	<path>D:\FIFTYONE REVISION DATASET\265.jpg</path>
+	<filename>290.jpg</filename>
+	<path>D:\FIFTYONE REVISION DATASET\290.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
+		<width>450</width>
 		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>403</xmin>
-			<ymin>284</ymin>
-			<xmax>688</xmax>
-			<ymax>447</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>275</xmin>
-			<ymin>306</ymin>
-			<xmax>363</xmax>
-			<ymax>352</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>motorcycle</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>666</xmin>
-			<ymin>357</ymin>
-			<xmax>800</xmax>
-			<ymax>574</ymax>
+			<xmin>235</xmin>
+			<ymin>231</ymin>
+			<xmax>259</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>690</xmin>
-			<ymin>287</ymin>
-			<xmax>797</xmax>
-			<ymax>519</ymax>
+			<xmin>214</xmin>
+			<ymin>228</ymin>
+			<xmax>238</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>224</ymin>
+			<xmax>218</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>194</ymin>
+			<xmax>91</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 </annotation>
