@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SDH RESIZE</folder>
+	<filename>400.jpg</filename>
+	<path>D:\DATASET\orang\SDH RESIZE\400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>35</ymin>
+			<xmax>683</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>96</ymin>
+			<xmax>358</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
